@@ -65,4 +65,5 @@ Contributions are welcome! If you have any ideas to improve the game or find a b
 For any inquiries or issues, please contact:
 
 Email: your.email@example.com
-GitHub: yourusername
+GitHub: indusri2409@gmail.com
+
